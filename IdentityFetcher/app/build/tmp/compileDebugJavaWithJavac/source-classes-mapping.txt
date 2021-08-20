@@ -1,0 +1,2 @@
+com/dapo/identityfetcher/BuildConfig.java
+ com.dapo.identityfetcher.BuildConfig
